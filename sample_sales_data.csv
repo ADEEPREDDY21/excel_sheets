@@ -1,0 +1,301 @@
+Date,Invoice Number,Product,Category,Quantity Sold,Price per Unit,Total Sales,Region
+21.5.23,INV5012,Smartphone,Electronics,8,74.07,592.56,North
+30.10.23,INV7912,Lego Set,Toys,2,19.75,39.5,South
+5.11.23,INV1434,Sweater,Clothing,18,103.42,1861.56,West
+29.10.23,INV5557,Dress,Clothing,1,380.61,380.61,South
+23.5.23,INV3547,Sofa,Furniture,7,478.82,3351.74,East
+14.7.23,INV2584,Smartphone,Electronics,12,424.51,5094.12,East
+2.10.23,INV3045,TV,Electronics,13,44.01,572.13,East
+23.10.23,INV4150,Doll,Toys,3,27.68,83.04,South
+30.4.23,INV2654,Milk,Groceries,13,142.6,1853.8,East
+1.7.23,INV4432,Jacket,Clothing,9,352.4,3171.6,North
+1.10.23,INV5010,Action Figure,Toys,6,233.82,1402.92,East
+17.12.23,INV6313,Action Figure,Toys,2,118.38,236.76,North
+18.5.23,INV2084,Rice,Groceries,7,457,3199,East
+22.7.23,INV8517,Dress,Clothing,5,136.12,680.6,South
+15.5.23,INV8019,Board Game,Toys,19,202.7,3851.3,South
+10.9.23,INV2489,Sweater,Clothing,2,431.25,862.5,South
+2.11.23,INV2040,Dress,Clothing,13,193.9,2520.7,West
+11.10.23,INV1188,Doll,Toys,4,342.45,1369.8,East
+31.5.23,INV8123,Milk,Groceries,6,229.59,1377.54,East
+17.9.23,INV2743,Action Figure,Toys,10,421.63,4216.3,South
+24.3.23,INV9837,Jacket,Clothing,17,459.65,7814.05,East
+27.2.23,INV6947,Chair,Furniture,10,123.53,1235.3,South
+13.2.23,INV8962,Lego Set,Toys,3,489.1,1467.3,South
+9.10.23,INV3705,Dress,Clothing,9,266.2,2395.8,West
+20.12.23,INV4295,Sweater,Clothing,10,202.5,2025,East
+20.8.23,INV2982,Wardrobe,Furniture,8,116.23,929.84,East
+11.10.23,INV4770,Camera,Electronics,19,114.01,2166.19,North
+4.2.23,INV1514,Laptop,Electronics,11,40.07,440.77,South
+20.4.23,INV9834,Rice,Groceries,5,363.06,1815.3,West
+28.7.23,INV4119,Dress,Clothing,4,52.98,211.92,West
+30.7.23,INV8651,Rice,Groceries,2,338.32,676.64,North
+23.6.23,INV2790,TV,Electronics,8,99.84,798.72,West
+4.4.23,INV5563,Dress,Clothing,15,128.65,1929.75,North
+20.2.23,INV1828,Wardrobe,Furniture,18,418.83,7538.94,North
+28.7.23,INV8956,Jeans,Clothing,16,110.8,1772.8,West
+14.7.23,INV1035,Laptop,Electronics,13,136.28,1771.64,West
+23.12.23,INV8973,Rice,Groceries,5,99,495,South
+5.10.23,INV1998,Camera,Electronics,11,33.3,366.3,West
+22.3.23,INV1931,Board Game,Toys,17,44.66,759.22,South
+4.2.23,INV4853,Camera,Electronics,13,64.34,836.42,South
+21.1.23,INV2343,Board Game,Toys,14,330.4,4625.6,East
+9.12.23,INV6147,Bread,Groceries,8,136.48,1091.84,South
+11.6.23,INV2188,Rice,Groceries,1,231.85,231.85,North
+20.4.23,INV9288,Camera,Electronics,9,70.57,635.13,East
+9.7.23,INV5669,Laptop,Electronics,6,221.9,1331.4,East
+5.1.23,INV5905,Board Game,Toys,4,469.77,1879.08,South
+24.2.23,INV3546,Milk,Groceries,9,144.47,1300.23,South
+18.12.23,INV5325,Bread,Groceries,17,246.82,4195.94,North
+22.5.23,INV1722,TV,Electronics,1,170.11,170.11,South
+15.8.23,INV8007,Bread,Groceries,18,9.79,176.22,North
+19.1.23,INV7049,Sweater,Clothing,19,278.5,5291.5,West
+7.6.23,INV6974,T-shirt,Clothing,2,449.97,899.94,South
+1.7.23,INV7658,T-shirt,Clothing,20,375.99,7519.8,South
+31.7.23,INV1406,Jeans,Clothing,6,369.6,2217.6,East
+17.5.23,INV3608,Table,Furniture,4,194.36,777.44,North
+13.4.23,INV8541,Table,Furniture,12,156.07,1872.84,South
+4.12.23,INV4164,T-shirt,Clothing,13,167.49,2177.37,North
+25.11.23,INV9346,Eggs,Groceries,13,341.36,4437.68,East
+14.5.23,INV3925,Smartphone,Electronics,19,481.45,9147.55,East
+2.11.23,INV8119,Smartphone,Electronics,12,365.63,4387.56,East
+19.9.23,INV2894,Wardrobe,Furniture,13,450.25,5853.25,South
+29.12.23,INV8144,Milk,Groceries,1,262.36,262.36,South
+5.2.23,INV6409,Rice,Groceries,20,160.39,3207.8,North
+8.6.23,INV7691,Fruits,Groceries,11,204.19,2246.09,East
+9.4.23,INV7888,Action Figure,Toys,13,340.27,4423.51,South
+4.6.23,INV7653,Board Game,Toys,18,417.69,7518.42,East
+9.8.23,INV6279,Bread,Groceries,15,223.68,3355.2,South
+28.3.23,INV2389,Puzzle,Toys,10,260.15,2601.5,East
+11.12.23,INV6085,Laptop,Electronics,8,404.25,3234,South
+6.5.23,INV8784,Smartphone,Electronics,20,425.62,8512.4,North
+19.11.23,INV4185,Bed,Furniture,13,249.72,3246.36,South
+24.2.23,INV7965,T-shirt,Clothing,8,92.06,736.48,West
+8.5.23,INV2988,Camera,Electronics,15,71,1065,West
+1.11.23,INV6198,Board Game,Toys,15,308.26,4623.9,West
+23.3.23,INV8777,Puzzle,Toys,15,133.3,1999.5,South
+6.9.23,INV4919,Fruits,Groceries,9,222.74,2004.66,East
+21.6.23,INV6238,Jacket,Clothing,18,44.89,808.02,South
+22.12.23,INV3503,Dress,Clothing,7,36.79,257.53,West
+27.8.23,INV7812,Fruits,Groceries,2,107.38,214.76,West
+23.12.23,INV1320,Wardrobe,Furniture,19,193.29,3672.51,North
+19.7.23,INV7865,Eggs,Groceries,18,375.02,6750.36,South
+20.5.23,INV8140,Table,Furniture,16,19.37,309.92,East
+28.8.23,INV3091,Table,Furniture,20,269.39,5387.8,West
+6.12.23,INV1444,Board Game,Toys,3,323.16,969.48,South
+26.1.23,INV5262,Table,Furniture,13,167.04,2171.52,West
+14.7.23,INV5558,Eggs,Groceries,14,129.87,1818.18,North
+4.10.23,INV1853,Chair,Furniture,12,115.99,1391.88,North
+7.5.23,INV4266,Smartphone,Electronics,1,312.56,312.56,South
+9.12.23,INV2874,Dress,Clothing,19,474.14,9008.66,West
+27.3.23,INV2876,Eggs,Groceries,6,482.54,2895.24,North
+9.6.23,INV7149,Lego Set,Toys,13,471.03,6123.39,South
+20.12.23,INV4978,Camera,Electronics,4,350.11,1400.44,East
+17.10.23,INV1672,Lego Set,Toys,12,268.71,3224.52,East
+28.11.23,INV6590,Camera,Electronics,1,425.54,425.54,West
+5.7.23,INV8532,TV,Electronics,5,220.57,1102.85,East
+5.9.23,INV8616,Board Game,Toys,14,413.74,5792.36,East
+14.2.23,INV5569,Bread,Groceries,15,125.71,1885.65,West
+9.12.23,INV7209,Board Game,Toys,11,19.21,211.31,East
+19.4.23,INV6813,Dress,Clothing,9,173.47,1561.23,East
+22.9.23,INV4130,Lego Set,Toys,3,124.47,373.41,West
+4.5.23,INV8800,Wardrobe,Furniture,16,226.85,3629.6,North
+24.4.23,INV7625,Headphones,Electronics,8,156.57,1252.56,East
+29.9.23,INV6632,Wardrobe,Furniture,14,498.33,6976.62,East
+19.5.23,INV6023,Rice,Groceries,9,119.12,1072.08,South
+2.10.23,INV4033,Milk,Groceries,7,112.11,784.77,West
+26.9.23,INV5636,Fruits,Groceries,4,417.15,1668.6,East
+2.4.23,INV5952,Jacket,Clothing,1,355.47,355.47,South
+28.1.23,INV5786,Milk,Groceries,5,320.75,1603.75,West
+21.10.23,INV5658,Smartphone,Electronics,16,241.96,3871.36,East
+10.5.23,INV8827,T-shirt,Clothing,4,411.95,1647.8,West
+23.10.23,INV1878,Chair,Furniture,5,78.85,394.25,East
+2.3.23,INV7818,Laptop,Electronics,20,300.08,6001.6,South
+19.8.23,INV8253,Puzzle,Toys,10,430.78,4307.8,West
+14.11.23,INV1986,Fruits,Groceries,20,480.25,9605,North
+16.5.23,INV2330,Jeans,Clothing,6,123.73,742.38,North
+29.7.23,INV8381,T-shirt,Clothing,20,237.61,4752.2,North
+28.12.23,INV5632,Jacket,Clothing,15,40.23,603.45,South
+5.12.23,INV4241,Fruits,Groceries,14,61.81,865.34,South
+14.3.23,INV2169,Jacket,Clothing,2,87.13,174.26,East
+28.5.23,INV8195,Board Game,Toys,4,237.01,948.04,East
+14.9.23,INV9847,Sofa,Furniture,16,221.69,3547.04,North
+6.11.23,INV5102,Sofa,Furniture,1,50.21,50.21,North
+21.1.23,INV3870,Fruits,Groceries,16,261.89,4190.24,West
+27.10.23,INV8141,Bread,Groceries,16,484.68,7754.88,West
+20.6.23,INV6260,Rice,Groceries,4,429.58,1718.32,East
+28.5.23,INV7561,Bed,Furniture,18,23.17,417.06,North
+15.6.23,INV2899,Eggs,Groceries,13,433.13,5630.69,North
+31.7.23,INV1888,Puzzle,Toys,7,261.63,1831.41,West
+15.4.23,INV5375,Chair,Furniture,18,69.85,1257.3,East
+4.3.23,INV1472,Bed,Furniture,20,400.66,8013.2,South
+8.1.23,INV7684,Fruits,Groceries,3,116.23,348.69,North
+28.11.23,INV3522,Chair,Furniture,16,466.66,7466.56,East
+1.8.23,INV8905,Doll,Toys,16,125.65,2010.4,South
+3.11.23,INV9327,Table,Furniture,5,432.69,2163.45,East
+17.9.23,INV5377,Sofa,Furniture,1,145.01,145.01,East
+4.12.23,INV9022,Board Game,Toys,5,226.04,1130.2,West
+10.10.23,INV9903,Eggs,Groceries,13,230.4,2995.2,East
+20.10.23,INV7274,Jeans,Clothing,8,428.73,3429.84,West
+31.8.23,INV7246,Headphones,Electronics,13,494.26,6425.38,South
+6.3.23,INV9229,Chair,Furniture,19,169.34,3217.46,North
+27.9.23,INV8486,Chair,Furniture,1,362.61,362.61,West
+29.8.23,INV5342,T-shirt,Clothing,11,313.51,3448.61,West
+12.12.23,INV9742,Headphones,Electronics,13,477.3,6204.9,West
+13.11.23,INV2121,Lego Set,Toys,8,317.42,2539.36,East
+11.8.23,INV2612,T-shirt,Clothing,4,224.62,898.48,East
+16.6.23,INV1919,Smartphone,Electronics,10,182.44,1824.4,West
+29.9.23,INV7751,Jeans,Clothing,19,342.49,6507.31,South
+10.2.23,INV7267,Jeans,Clothing,20,343.15,6863,West
+29.4.23,INV8555,Action Figure,Toys,9,232.49,2092.41,North
+13.12.23,INV9955,Sofa,Furniture,6,41.56,249.36,East
+24.11.23,INV7951,Doll,Toys,9,231.13,2080.17,East
+5.9.23,INV2747,Dress,Clothing,8,193.78,1550.24,East
+25.12.23,INV5837,Doll,Toys,1,489.08,489.08,West
+17.10.23,INV1803,Milk,Groceries,20,373.86,7477.2,East
+30.6.23,INV4588,Sweater,Clothing,7,312.34,2186.38,South
+8.6.23,INV8222,Smartphone,Electronics,2,291.89,583.78,South
+17.6.23,INV7807,Headphones,Electronics,6,104.39,626.34,East
+20.5.23,INV3695,Board Game,Toys,9,457.45,4117.05,West
+28.2.23,INV8673,Eggs,Groceries,3,74.67,224.01,South
+7.7.23,INV2479,Wardrobe,Furniture,13,11.89,154.57,North
+11.12.23,INV5295,Sofa,Furniture,19,193.61,3678.59,East
+30.8.23,INV1410,Laptop,Electronics,20,442.7,8854,East
+28.11.23,INV2035,Action Figure,Toys,15,455.15,6827.25,East
+13.3.23,INV1742,Chair,Furniture,2,155.66,311.32,West
+1.5.23,INV9807,Smartphone,Electronics,5,197.38,986.9,East
+28.10.23,INV3531,Puzzle,Toys,14,329.19,4608.66,West
+24.5.23,INV1536,Puzzle,Toys,12,112.55,1350.6,West
+20.2.23,INV7018,Jacket,Clothing,18,451.34,8124.12,East
+22.5.23,INV4109,TV,Electronics,4,474.76,1899.04,West
+25.11.23,INV1349,Laptop,Electronics,2,394.46,788.92,South
+16.4.23,INV2124,Sweater,Clothing,18,107.54,1935.72,South
+17.3.23,INV1046,Jacket,Clothing,9,429.91,3869.19,South
+9.5.23,INV3858,Sweater,Clothing,4,332.22,1328.88,North
+3.7.23,INV4898,T-shirt,Clothing,19,165.27,3140.13,South
+6.3.23,INV7897,Milk,Groceries,17,61.26,1041.42,North
+5.7.23,INV9408,Bed,Furniture,19,58.98,1120.62,South
+4.12.23,INV9543,Lego Set,Toys,10,231.73,2317.3,North
+25.7.23,INV7984,TV,Electronics,4,247.68,990.72,West
+14.6.23,INV3430,Smartphone,Electronics,3,67.46,202.38,East
+29.9.23,INV5831,Wardrobe,Furniture,15,255.25,3828.75,West
+2.12.23,INV4522,Smartphone,Electronics,14,228.52,3199.28,South
+21.8.23,INV7532,Sofa,Furniture,14,366.16,5126.24,East
+7.12.23,INV5176,Sofa,Furniture,12,477.03,5724.36,West
+13.2.23,INV2527,Smartphone,Electronics,14,52.8,739.2,East
+31.1.23,INV6400,Sweater,Clothing,4,208.35,833.4,West
+4.11.23,INV6119,Headphones,Electronics,12,56.28,675.36,South
+25.4.23,INV2773,Dress,Clothing,12,423.46,5081.52,East
+21.10.23,INV4705,Headphones,Electronics,14,423.35,5926.9,North
+15.1.23,INV3955,Doll,Toys,9,352.84,3175.56,East
+4.1.23,INV3972,Eggs,Groceries,5,285.33,1426.65,West
+21.11.23,INV1502,Laptop,Electronics,3,374.33,1122.99,South
+21.8.23,INV6585,Bed,Furniture,6,188.18,1129.08,East
+13.2.23,INV1861,Board Game,Toys,5,82.92,414.6,North
+15.8.23,INV7947,Headphones,Electronics,16,305.5,4888,West
+20.9.23,INV2864,Bread,Groceries,12,217.81,2613.72,East
+27.9.23,INV6053,Puzzle,Toys,2,114.16,228.32,North
+4.6.23,INV4460,Laptop,Electronics,5,383.26,1916.3,East
+4.1.23,INV9149,Milk,Groceries,14,91.97,1287.58,West
+14.9.23,INV6802,Action Figure,Toys,3,201.55,604.65,North
+24.8.23,INV2275,Chair,Furniture,11,290,3190,West
+28.2.23,INV7636,Sofa,Furniture,1,483.27,483.27,South
+20.12.23,INV6928,Puzzle,Toys,3,221.17,663.51,North
+29.10.23,INV7560,Dress,Clothing,17,43.93,746.81,East
+20.6.23,INV3754,Bread,Groceries,3,257.69,773.07,North
+10.4.23,INV6724,Board Game,Toys,12,365.05,4380.6,South
+16.3.23,INV5193,T-shirt,Clothing,7,90.88,636.16,South
+18.11.23,INV9095,Laptop,Electronics,15,378.45,5676.75,West
+15.6.23,INV6179,Board Game,Toys,5,222.68,1113.4,West
+21.5.23,INV1920,Sofa,Furniture,12,256.13,3073.56,East
+20.1.23,INV1932,Bed,Furniture,12,416.69,5000.28,North
+1.11.23,INV9307,Camera,Electronics,13,234.04,3042.52,North
+30.11.23,INV4084,Wardrobe,Furniture,11,304.48,3349.28,South
+22.2.23,INV6626,TV,Electronics,3,254.75,764.25,South
+29.12.23,INV8172,Laptop,Electronics,15,264.41,3966.15,South
+25.5.23,INV7347,Eggs,Groceries,14,388.36,5437.04,North
+18.6.23,INV2548,Milk,Groceries,18,340.8,6134.4,East
+18.3.23,INV6461,Fruits,Groceries,3,293.46,880.38,South
+2.12.23,INV7421,Eggs,Groceries,5,299.55,1497.75,North
+12.7.23,INV6381,Fruits,Groceries,5,336.71,1683.55,North
+5.7.23,INV1298,Wardrobe,Furniture,12,157.89,1894.68,South
+9.4.23,INV4711,Rice,Groceries,5,81.7,408.5,East
+4.10.23,INV9626,Camera,Electronics,2,332.65,665.3,South
+20.3.23,INV3658,Puzzle,Toys,6,416.52,2499.12,South
+30.7.23,INV6968,Chair,Furniture,8,484.95,3879.6,East
+1.10.23,INV4918,Table,Furniture,10,482.97,4829.7,West
+14.12.23,INV8218,Jacket,Clothing,15,385.87,5788.05,West
+3.8.23,INV3655,Board Game,Toys,7,401.62,2811.34,South
+25.11.23,INV8873,Milk,Groceries,12,279.5,3354,North
+26.5.23,INV2374,Lego Set,Toys,6,140.03,840.18,South
+24.4.23,INV8391,Chair,Furniture,12,465.58,5586.96,West
+15.9.23,INV7126,TV,Electronics,8,196.15,1569.2,North
+15.1.23,INV6221,Bread,Groceries,4,420.39,1681.56,East
+20.1.23,INV5700,Jeans,Clothing,16,349.56,5592.96,South
+12.11.23,INV1086,Bed,Furniture,3,14.41,43.23,South
+8.11.23,INV9647,Sweater,Clothing,14,60.04,840.56,East
+4.3.23,INV1782,Jacket,Clothing,8,212.81,1702.48,West
+13.9.23,INV9782,Smartphone,Electronics,1,317.82,317.82,South
+8.8.23,INV1025,Jacket,Clothing,20,179.64,3592.8,West
+26.9.23,INV6908,T-shirt,Clothing,3,476.93,1430.79,North
+23.1.23,INV7338,Bed,Furniture,12,130.56,1566.72,North
+26.6.23,INV4950,Milk,Groceries,4,386.89,1547.56,East
+30.6.23,INV9945,T-shirt,Clothing,11,407.69,4484.59,South
+20.11.23,INV3986,Bed,Furniture,5,36.23,181.15,West
+14.4.23,INV1717,Headphones,Electronics,7,443.47,3104.29,East
+23.7.23,INV9897,Fruits,Groceries,16,130.39,2086.24,South
+25.1.23,INV6438,Eggs,Groceries,9,66.62,599.58,East
+14.8.23,INV7334,Bed,Furniture,11,486.99,5356.89,West
+23.9.23,INV5369,Sofa,Furniture,3,364.91,1094.73,North
+3.4.23,INV9937,Wardrobe,Furniture,10,164,1640,North
+6.6.23,INV8305,Eggs,Groceries,20,360.24,7204.8,South
+17.8.23,INV1693,Sofa,Furniture,12,309.35,3712.2,West
+8.2.23,INV7655,Milk,Groceries,12,258.98,3107.76,South
+8.11.23,INV8179,Laptop,Electronics,2,67.48,134.96,South
+16.7.23,INV1530,Eggs,Groceries,20,80.95,1619,West
+16.8.23,INV2259,Eggs,Groceries,19,73.16,1390.04,East
+29.11.23,INV5566,Sofa,Furniture,8,480.46,3843.68,North
+23.9.23,INV7340,Dress,Clothing,18,63.29,1139.22,East
+10.11.23,INV5678,Table,Furniture,16,104.09,1665.44,South
+30.3.23,INV8292,TV,Electronics,3,406.2,1218.6,East
+9.10.23,INV9882,Milk,Groceries,10,446.21,4462.1,South
+18.9.23,INV4673,Jacket,Clothing,4,492.64,1970.56,South
+14.1.23,INV6912,Dress,Clothing,18,288.28,5189.04,West
+10.11.23,INV2412,Action Figure,Toys,3,158.1,474.3,West
+29.7.23,INV2208,Puzzle,Toys,5,486.33,2431.65,North
+15.12.23,INV9476,Bed,Furniture,12,68.53,822.36,South
+15.9.23,INV1907,Dress,Clothing,4,261.46,1045.84,East
+15.6.23,INV4694,Jeans,Clothing,12,474,5688,East
+11.4.23,INV5496,Headphones,Electronics,5,314.39,1571.95,North
+31.10.23,INV3526,Action Figure,Toys,6,331.07,1986.42,East
+15.1.23,INV2330,Lego Set,Toys,2,474.53,949.06,East
+2.8.23,INV1496,Sweater,Clothing,16,445.05,7120.8,East
+6.5.23,INV7653,Rice,Groceries,10,229.5,2295,North
+1.8.23,INV8933,Dress,Clothing,15,105.99,1589.85,South
+26.6.23,INV7532,Eggs,Groceries,5,381.53,1907.65,North
+27.8.23,INV3007,Bread,Groceries,9,227.55,2047.95,South
+29.5.23,INV7293,Smartphone,Electronics,20,211.98,4239.6,South
+10.6.23,INV4110,Fruits,Groceries,6,251.64,1509.84,West
+12.9.23,INV1379,Sofa,Furniture,3,472.89,1418.67,West
+26.10.23,INV6781,Jeans,Clothing,2,30.02,60.04,West
+27.5.23,INV9793,Puzzle,Toys,1,424.35,424.35,West
+7.7.23,INV7606,Jacket,Clothing,12,27.39,328.68,North
+10.4.23,INV6939,Board Game,Toys,18,147.86,2661.48,West
+9.10.23,INV5582,Puzzle,Toys,20,341.8,6836,North
+21.7.23,INV7114,T-shirt,Clothing,11,281.13,3092.43,East
+5.11.23,INV9341,Jeans,Clothing,13,252.54,3283.02,North
+20.6.23,INV8761,Laptop,Electronics,17,231.21,3930.57,South
+13.6.23,INV3662,Fruits,Groceries,13,495.35,6439.55,East
+17.9.23,INV9351,Doll,Toys,18,247.47,4454.46,East
+8.7.23,INV6427,Chair,Furniture,4,490.05,1960.2,East
+31.8.23,INV5350,Camera,Electronics,19,290.93,5527.67,North
+29.3.23,INV9589,Puzzle,Toys,20,388.43,7768.6,West
+17.1.23,INV2800,Jeans,Clothing,7,14.37,100.59,East
+31.7.23,INV4340,Table,Furniture,14,253.4,3547.6,West
+23.9.23,INV4397,Laptop,Electronics,18,165.9,2986.2,West
+10.6.23,INV3837,Puzzle,Toys,15,456.5,6847.5,East
+13.12.23,INV5331,Doll,Toys,20,244.67,4893.4,South
+2.6.23,INV4684,Fruits,Groceries,10,386.73,3867.3,South
+3.9.23,INV6714,Sofa,Furniture,18,467.18,8409.24,East
+21.10.23,INV9899,Milk,Groceries,13,448.4,5829.2,West
+29.5.23,INV1689,Bread,Groceries,10,477.88,4778.8,North
